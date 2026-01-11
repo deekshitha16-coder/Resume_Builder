@@ -1,7 +1,6 @@
 # Resume_Builder
 //Built a Resume Builder application enabling users to enter, store, and fetch resume details in a structured format.
 import java.util.Scanner;
-gfgfhf
 public class SmartResumeBuilder {
     static String name, profile, education;
     static String knownLang, progLang, webTech, tools;
